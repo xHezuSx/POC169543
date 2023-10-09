@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//2,4,6,8,10,12 zadania 
+//2,4,6,8,10,12 zadania
 
 public class A1 {
     public static void main(String[] args)
