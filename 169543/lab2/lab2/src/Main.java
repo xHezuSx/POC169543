@@ -17,8 +17,7 @@ public class Main {
                 System.out.println("Buzz");
             }
             else {
-                int j = i;
-                System.out.println(j);
+                System.out.println(i);
             }
         }
     }
