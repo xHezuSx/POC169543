@@ -7,7 +7,7 @@ public class G1 {
         for(int i=0; i<10; i++){
             listaInt.add(i);
         }
-        for(int i=0;i<listaInt.size(); i++)
+        for(int i=listaInt.size()-1;i>=0; i--)
         {
             System.out.println(listaInt.get(i));
         }
