@@ -11,7 +11,9 @@ public class H2 {
         int l = 0;
         int r = fraza.length()-1;
         while(l<r){
-            if(fraza.charAt(l) == fraza.charAt(r)) {
+            char leftLetter = fraza.charAt(l);
+            char rightLetter = fraza.charAt(r);
+            if(leftLetter != rightLetter) {
                 return false;}
                 l++;
                 r--;
