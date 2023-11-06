@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="494ef0d9-bf08-4d5a-afbf-9db4766a0c0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/building/management/Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/building/management/TestBuilding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/instance/zad3/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/instance/zad3/TestSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/info/people/zad13/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/info/people/zad13/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/people/zad2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/people/zad2/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/calc/zad5/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/calc/zad5/TestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/cars/zad10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/cars/zad10/TestCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/people/zad1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/people/zad1/TestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/weather/zad23/TemperatureHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pl/weather/zad23/TestTemperatureHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab4/lab4/out/production/lab4/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/lab4/out/production/lab4/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab4/lab4/out/production/lab4/TestCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/lab4/out/production/lab4/TestCat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab4/lab4/src/TestCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/lab4/src/TestCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/instance/zad3/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instance/zad3/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/instance/zad3/TestSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/instance/zad3/TestSingleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699269579105</updated>
-      <workItem from="1699269580541" duration="4970000" />
+      <workItem from="1699269580541" duration="6088000" />
     </task>
     <servers />
   </component>
